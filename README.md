@@ -96,7 +96,7 @@ Tecnologias que uso ativamente:
 Entre em contato comigo:
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/gabriel-dias-027572300/" target="_blank">
+  <a href="www.linkedin.com/in/gabrielmontrdias" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:gabriel050monteiro@gmail.com" target="_blank">
