@@ -3,7 +3,6 @@ l<!-- CABEÇALHO ANIMADO -->  <a href="https://git.io/typing-svg">
 
 
 </a>  🌌 Sobre Mim
-
 <table style="background-color: #1a1a1a; border-radius: 10px; padding: 20px; width: 100%;">  
   <tr>  
     <td width="35%" align="center">  
