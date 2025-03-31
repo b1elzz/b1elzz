@@ -1,6 +1,8 @@
-<<!-- CABEÇALHO ANIMADO --><div align="center" style="margin-bottom: 30px;">
+<!-- CABEÇALHO ANIMADO -->
+<div align="center" style="margin-bottom: 30px;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2500&pause=1000&color=800080&background=1A1A1A&center=true&vCenter=true&width=500&lines=Back-End+Java+Enthusiast;Hello%2C+I'm+Gabriel+Dias;Always+Striving+for+Growth;Passionate+About+Technology" alt="Typing SVG" />
 </div>
+
 ---
 
 🌌 Sobre Mim
@@ -15,6 +17,7 @@
     <li>💡 Entusiasta de tecnologia e desenvolvimento de software</li>
   </ul>
 </div>
+
 ---
 
 ⚙️ Minha Stack Atual
@@ -31,6 +34,7 @@
     <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git" /></a>  
   </div>  
 </div>  
+
 ---
 
 🌠 Stack Futura
