@@ -7,18 +7,18 @@
 
 ## 🌌 Sobre Mim
 
-<table style="background-color: #1a1a1a; border-radius: 10px; padding: 20px;">
+<table style="background-color: #1a1a1a; border-radius: 10px; padding: 20px; width: 100%;">
   <tr>
-    <td width="38%" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="290" style="border-radius:10px; object-fit: cover; border: 2px solid #800080;" />
+    <td width="35%" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="280" style="border-radius:10px; object-fit: cover; border: 2px solid #800080;" />
     </td>
-    <td width="62%" valign="top" style="color: #FFFFFF; padding-left: 20px;">
-      <ul style="list-style-type: none;">
+    <td width="65%" valign="top" style="color: #FFFFFF; padding-left: 25px;">
+      <ul style="list-style-type: none; font-size: 16px; line-height: 1.6;">
         <li>🎓 Tenho 17 anos e moro em Porto Alegre – RS 🇧🇷</li>
         <li>🧑‍💻 Finalizando o Ensino Médio + curso técnico em Informática</li>
         <li>☕ Entusiasta do desenvolvimento Back-End com foco em Java</li>
         <li>🛠️ Aprofundando conhecimentos em Spring Boot, bancos relacionais e não-relacionais, arquitetura, testes e boas práticas</li>
-        <li>🤖 Tenho interesse na área de IA e Computação Quântica</li>
+        <li>🤖 Tenho interesse na área de IA</li>
         <li>💡 Entusiasta de tecnologia e desenvolvimento de software</li>
       </ul>
     </td>
