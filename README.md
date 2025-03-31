@@ -1,13 +1,14 @@
-l<!-- CABEÇALHO ANIMADO -->  <a href="https://git.io/typing-svg">  
+<!-- CABEÇALHO ANIMADO -->  <a href="https://git.io/typing-svg">  
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=800080&background=000000&center=false&vCenter=true&width=1000&lines=Hello+World!+I'm+Gabriel+Dias;Back-End+Developer+Enthusiast+ready+to+create+impact!" alt="Typing SVG" />  
 
+---
 
 </a>  🌌 Sobre Mim
+
 <table style="background-color: #1a1a1a; border-radius: 10px; padding: 20px; width: 100%;">  
   <tr>  
     <td width="35%" align="center">  
       <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300" style="border-radius:10px; object-fit: cover; border: 2px solid #800080;" />  
-
     </td>  
     <td width="65%" style="color: #FFFFFF; padding-left: 25px; vertical-align: middle;">  
       <ul style="list-style-type: none; font-size: 16px; line-height: 1.6;">  
@@ -101,4 +102,3 @@ l<!-- CABEÇALHO ANIMADO -->  <a href="https://git.io/typing-svg">
 </div>  
 
 ---
-
