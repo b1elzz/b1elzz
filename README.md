@@ -1,17 +1,19 @@
-<!-- CABEÇALHO ANIMADO --><a href="https://git.io/typing-svg">
+<<!-- CABEÇALHO ANIMADO --><a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=800080&background=000000&center=false&vCenter=true&width=1000&lines=Hello+World!+I'm+Gabriel+Dias;Back-End+Developer+Enthusiast+ready+to+create+impact!" alt="Typing SVG" />
 </a>🌌 Sobre Mim
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="250" style="border-radius:10px; object-fit: cover; border: 2px solid #800080;" />
-</div><ul style="font-size: 16px; line-height: 1.6; text-align: left;">
-  <li>🎓 Tenho 17 anos e moro em Porto Alegre – RS 🇧🇷</li>
-  <li>🧑‍💻 Finalizando o Ensino Médio + curso técnico em Informática</li>
-  <li>☕ Entusiasta do desenvolvimento Back-End com foco em Java</li>
-  <li>🛠️ Aprofundando conhecimentos em Spring Boot, bancos relacionais e não-relacionais, arquitetura, testes e boas práticas</li>
-  <li>🤖 Tenho interesse na área de IA e Computação Quântica</li>
-  <li>💡 Entusiasta de tecnologia e desenvolvimento de software</li>
-</ul>
+<div style="background-color: #1a1a1a; border-radius: 10px; padding: 20px; color: #FFFFFF; display: flex; flex-direction: column; align-items: center; text-align: center;">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="250" style="border-radius:10px; object-fit: cover; border: 2px solid #800080; margin-bottom: 15px;" />
+  <ul style="list-style-type: none; font-size: 16px; line-height: 1.6; padding: 0; text-align: left; max-width: 600px;">
+    <li>🎓 Tenho 17 anos e moro em Porto Alegre – RS 🇧🇷</li>
+    <li>🧑‍💻 Finalizando o Ensino Médio + curso técnico em Informática</li>
+    <li>☕ Entusiasta do desenvolvimento Back-End com foco em Java</li>
+    <li>🛠️ Aprofundando conhecimentos em Spring Boot, bancos relacionais e não-relacionais, arquitetura, testes e boas práticas</li>
+    <li>🤖 Tenho interesse na área de IA e Computação Quântica</li>
+    <li>💡 Entusiasta de tecnologia e desenvolvimento de software</li>
+  </ul>
+</div>
+
 ---
 
 ⚙️ Minha Stack Atual
