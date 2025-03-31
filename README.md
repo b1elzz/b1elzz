@@ -1,9 +1,15 @@
 <<!-- CABEÇALHO ANIMADO --><a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=800080&background=000000&center=false&vCenter=true&width=1000&lines=Hello+World!+I'm+Gabriel+Dias;Back-End+Developer+Enthusiast+ready+to+create+impact!" alt="Typing SVG" />
+
+---
+
 </a>🌌 Sobre Mim
 
 <div style="background-color: #1a1a1a; border-radius: 10px; padding: 20px; color: #FFFFFF; display: flex; flex-direction: column; align-items: center; text-align: center;">
+
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="250" style="border-radius:10px; object-fit: cover; border: 2px solid #800080; margin-bottom: 15px;" />
+
+
   <ul style="list-style-type: none; font-size: 16px; line-height: 1.6; padding: 0; text-align: left; max-width: 600px;">
     <li>🎓 Tenho 17 anos e moro em Porto Alegre – RS 🇧🇷</li>
     <li>🧑‍💻 Finalizando o Ensino Médio + curso técnico em Informática</li>
@@ -29,6 +35,7 @@ Tecnologias que domino e utilizo:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" title="Postman" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
 </div>
+
 ---
 
 🌠 Stack Futura
@@ -51,6 +58,7 @@ Tecnologias que domino e utilizo:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="40" title="Hibernate" />
   </div>
 </details>
+
 ---
 
 📈 Estatísticas do GitHub
@@ -62,6 +70,7 @@ Tecnologias que domino e utilizo:
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=b1elzz&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=1a1a1a&title_color=800080&icon_color=800080" height="150" />
   </div>
 </details>
+
 ---
 
 📡 Entre em Contato
@@ -79,3 +88,5 @@ Fale comigo:
     <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=800080" />
   </a>
 </div>
+
+---
