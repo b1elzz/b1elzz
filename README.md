@@ -10,7 +10,7 @@
 <table style="background-color: #1a1a1a; border-radius: 10px; padding: 20px; width: 100%;">
   <tr>
     <td width="35%" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="420" style="border-radius:10px; object-fit: cover; border: 2px solid #800080;" />
+      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300" style="border-radius:10px; object-fit: cover; border: 2px solid #800080;" />
     </td>
     <td width="65%" style="color: #FFFFFF; padding-left: 25px; vertical-align: middle;">
       <ul style="list-style-type: none; font-size: 16px; line-height: 1.6;">
