@@ -16,6 +16,8 @@
   </ul>
 </div>
 
+---
+
 ## ⚙️ Minha Stack Atual
 
 <div style="background-color: #1a1a1a; border-radius: 10px; padding: 20px;">
@@ -30,6 +32,8 @@
     <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git" /></a>
   </div>
 </div>
+
+---
 
 ## 🌠 Stack Futura
 
@@ -49,6 +53,8 @@
   </div>
 </details>
 
+---
+
 ## 📊 Estatísticas do GitHub
 
 <details>
@@ -58,6 +64,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=b1elzz&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=1a1a1a&title_color=800080&icon_color=800080" height="150" />
   </div>
 </details>
+
+---
 
 ## 📡 Entre em Contato
 
