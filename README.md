@@ -1,6 +1,4 @@
 <!-- CABEÇALHO ANIMADO -->
-
-<!-- CABEÇALHO ANIMADO -->
 <div align="center">
   <h1 style="color: #FFFFFF; font-size: 48px; margin-bottom: 10px;">
     👋 Olá! Eu sou Gabriel Dias
