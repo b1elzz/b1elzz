@@ -5,8 +5,6 @@
 
 ## 🌌 Sobre Mim
 
----
-
 <div style="background-color: #1a1a1a; border-radius: 10px; padding: 25px; color: #FFFFFF; text-align: center; margin: 0 auto; max-width: 800px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
   <ul style="list-style-type: none; font-size: 18px; line-height: 1.8; padding: 0; margin: 0;">
     <li>🎓 Tenho 17 anos e moro em Porto Alegre – RS 🇧🇷</li>
@@ -17,8 +15,6 @@
     <li>💡 Entusiasta de tecnologia e desenvolvimento de software</li>
   </ul>
 </div>
-
----
 
 ## ⚙️ Minha Stack Atual
 
@@ -36,8 +32,6 @@
 </div>
 
 ## 🌠 Stack Futura
-
----
 
 <details>
   <summary style="color: #800080; font-size: 18px; font-weight: bold; padding: 10px 0;">▸ Clique para explorar meu roadmap</summary>
@@ -57,8 +51,6 @@
 
 ## 📊 Estatísticas do GitHub
 
----
-
 <details>
   <summary style="color: #800080; font-size: 18px; font-weight: bold;">▸ Clique para ver meus stats</summary>
   <div align="center" style="margin-top: 10px;">
@@ -68,8 +60,6 @@
 </details>
 
 ## 📡 Entre em Contato
-
----
 
 <div style="background-color: #1a1a1a; border-radius: 10px; padding: 20px;">  
   <p style="color: #800080; font-size: 18px; font-weight: bold;">Fale comigo:</p>  
@@ -84,8 +74,4 @@
       <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=800080" />  
     </a>  
   </div>  
-</div> 
- 
----
-
-
+</div>
