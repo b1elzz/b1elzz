@@ -1,10 +1,7 @@
 <!-- CABEÇALHO ANIMADO -->
 <div align="center">
-  <h1 style="color: #FFFFFF; font-size: 48px; margin-bottom: 10px;">
-    👋 Olá! Eu sou Gabriel Dias
-  </h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=800080&background=000000¢er=true&vCenter=true&width=500&lines=Back-End+Developer+Enthusiast;Ready+to+Create+Impact!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=48&duration=3000&pause=1000&color=800080&background=000000¢er=true&vCenter=true&width=600&lines=I'm+Gabriel+Dias;Back-End+Dev+Enthusiast!" alt="Typing SVG" />
   </a>
 </div>
 
