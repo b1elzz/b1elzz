@@ -1,16 +1,21 @@
-<<!-- CABEÇALHO ANIMADO --><a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=800080&background=000000&center=false&vCenter=true&width=1000&lines=Hello+World!+I'm+Gabriel+Dias;Back-End+Developer+Enthusiast+ready+to+create+impact!" alt="Typing SVG" />
+<!-- CABEÇALHO ANIMADO -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=800080&background=000000&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Gabriel+Dias;Back-End+Developer+Enthusiast+ready+to+create+impact!" alt="Typing SVG" />
+  </a>
+</div>
 
 ---
 
-</a>🌌 Sobre Mim
+## 🌌 Sobre Mim
 
-<div style="background-color: #1a1a1a; border-radius: 10px; padding: 20px; color: #FFFFFF; display: flex; flex-direction: column; align-items: center; text-align: center;">
+<div style="background-color: #1a1a1a; border-radius: 10px; padding: 20px; color: #FFFFFF; text-align: center; margin: 0 auto; max-width: 700px;">
 
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="250" style="border-radius:10px; object-fit: cover; border: 2px solid #800080; margin-bottom: 15px;" />
+  <div style="display: flex; justify-content: center; margin-bottom: 15px;">
+    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="200" style="border-radius: 10px; object-fit: cover; border: 2px solid #800080;" />
+  </div>
 
-
-  <ul style="list-style-type: none; font-size: 16px; line-height: 1.6; padding: 0; text-align: left; max-width: 600px;">
+  <ul style="list-style-type: none; font-size: 16px; line-height: 1.6; padding: 0; text-align: left; display: inline-block;">
     <li>🎓 Tenho 17 anos e moro em Porto Alegre – RS 🇧🇷</li>
     <li>🧑‍💻 Finalizando o Ensino Médio + curso técnico em Informática</li>
     <li>☕ Entusiasta do desenvolvimento Back-End com foco em Java</li>
