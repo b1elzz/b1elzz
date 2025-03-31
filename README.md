@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2500&pause=1000&color=800080&background=1A1A1A&center=true&vCenter=true&width=500&lines=Back-End+Java+Enthusiast;Hello%2C+I'm+Gabriel+Dias;Always+Striving+for+Growth;Passionate+About+Technology" alt="Typing SVG" />
 </div>
 
-## 🌌 Sobre Mim
+# 🌌 Sobre Mim
 
 <div style="background-color: #1a1a1a; border-radius: 10px; padding: 25px; color: #FFFFFF; text-align: center; margin: 0 auto; max-width: 800px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
   <ul style="list-style-type: none; font-size: 18px; line-height: 1.8; padding: 0; margin: 0;">
@@ -18,7 +18,7 @@
 
 ---
 
-## ⚙️ Minha Stack Atual
+# ⚙️ Minha Stack Atual
 
 <div style="background-color: #1a1a1a; border-radius: 10px; padding: 20px;">
   <p style="color: #800080; font-size: 18px; font-weight: bold;">Tecnologias que domino e utilizo:</p>
@@ -35,23 +35,33 @@
 
 ---
 
-## 🌠 Stack Futura
+# 🌠 Stack Futura
 
-<details>
-  <summary style="color: #800080; font-size: 18px; font-weight: bold; padding: 10px 0;">▸ Clique para explorar meu roadmap</summary>
-  <div style="background-color: #1a1a1a; border-radius: 10px; padding: 20px; margin-top: 10px;">
-    <h3 style="color: #800080; margin-bottom: 15px;">🔬 Inteligência Artificial & Data Science</h3>
-    <div align="left" style="display: flex; gap: 15px; flex-wrap: wrap;">
-      <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python" /></a>
-      <a href="https://www.tensorflow.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" title="TensorFlow" /></a>
-      <a href="https://pytorch.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" title="PyTorch" /></a>
-      <a href="https://numpy.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" title="NumPy" /></a>
-      <a href="https://pandas.pydata.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" title="Pandas" /></a>
-      <a href="https://scikit-learn.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" title="Scikit-Learn" /></a>
-      <a href="https://jupyter.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" title="Jupyter" /></a>
-    </div>
-  </div>
-</details>
+<details>  
+  <summary style="color: #800080; font-size: 18px; font-weight: bold; padding: 10px 0;">▸ Clique para explorar meu roadmap</summary>  
+  <div style="background-color: #1a1a1a; border-radius: 10px; padding: 20px; margin-top: 10px;">  
+    <h3 style="color: #800080; margin-bottom: 15px;">🔬 Inteligência Artificial & Data Science</h3>  
+    <div align="left" style="display: flex; gap: 15px; flex-wrap: wrap;">  
+      <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python" /></a>  
+      <a href="https://www.tensorflow.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" title="TensorFlow" /></a>  
+      <a href="https://pytorch.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" title="PyTorch" /></a>  
+      <a href="https://numpy.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" title="NumPy" /></a>  
+      <a href="https://pandas.pydata.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" title="Pandas" /></a>  
+      <a href="https://scikit-learn.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" title="Scikit-Learn" /></a>  
+      <a href="https://jupyter.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" title="Jupyter" /></a>  
+    </div>  
+    <h3 style="color: #800080; margin-top: 30px; margin-bottom: 15px;">☕ Back-End Java Avançado</h3>  
+    <div align="left" style="display: flex; gap: 15px; flex-wrap: wrap;">  
+      <a href="https://quarkus.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original.svg" width="50" title="Quarkus" /></a>  
+      <a href="https://maven.apache.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="50" title="Maven" /></a>  
+      <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" title="Docker" /></a>  
+      <a href="https://kubernetes.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" title="Kubernetes" /></a>  
+      <a href="https://graphql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="50" title="GraphQL" /></a>  
+      <a href="https://www.rabbitmq.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="50" title="RabbitMQ" /></a>  
+      <a href="https://hibernate.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="50" title="Hibernate" /></a>  
+    </div>  
+  </div>  
+</details>  
 
 ---
 
