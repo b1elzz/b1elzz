@@ -5,7 +5,7 @@
 
 ---
 
-🌌 Sobre Mim
+## 🌌 Sobre Mim
 
 <div style="background-color: #1a1a1a; border-radius: 10px; padding: 25px; color: #FFFFFF; text-align: center; margin: 0 auto; max-width: 800px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
   <ul style="list-style-type: none; font-size: 18px; line-height: 1.8; padding: 0; margin: 0;">
@@ -20,7 +20,7 @@
 
 ---
 
-⚙️ Minha Stack Atual
+## ⚙️ Minha Stack Atual
 
 <div style="background-color: #1a1a1a; border-radius: 10px; padding: 20px;">
   <p style="color: #800080; font-size: 18px; font-weight: bold;">Tecnologias que domino e utilizo:</p>
@@ -37,7 +37,7 @@
 
 ---
 
-🌠 Stack Futura
+## 🌠 Stack Futura
 
 <details>
   <summary style="color: #800080; font-size: 18px; font-weight: bold; padding: 10px 0;">▸ Clique para explorar meu roadmap</summary>
@@ -57,7 +57,7 @@
 
 ---
 
-📊 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 <details>
   <summary style="color: #800080; font-size: 18px; font-weight: bold;">▸ Clique para ver meus stats</summary>
