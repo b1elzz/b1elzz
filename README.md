@@ -23,15 +23,18 @@
 <div style="background-color: #1a1a1a; border-radius: 10px; padding: 20px;">
   <p style="color: #800080; font-size: 18px; font-weight: bold;">Tecnologias que domino e utilizo:</p>
   <div align="left">
-    <a href="https://www.java.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java" /></a>
+    <a href="https://www.java.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java" /></a>
     <a href="https://spring.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" title="Spring Boot" /></a>
     <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL" /></a>
     <a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" title="MongoDB" /></a>
     <a href="https://redis.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" title="Redis" /></a>
     <a href="https://www.postman.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" title="Postman" /></a>
     <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript" /></a>
+    <a href="https://maven.apache.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="50" title="Maven" /></a>
   </div>
 </div>
+
 
 ---
 
@@ -53,7 +56,6 @@
     <h3 style="color: #800080; margin-top: 30px; margin-bottom: 15px;">☕ Back-End Java Avançado</h3>  
     <div align="left" style="display: flex; gap: 15px; flex-wrap: wrap;">  
       <a href="https://quarkus.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original.svg" width="50" title="Quarkus" /></a>  
-      <a href="https://maven.apache.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="50" title="Maven" /></a>  
       <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" title="Docker" /></a>  
       <a href="https://kubernetes.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" title="Kubernetes" /></a>  
       <a href="https://graphql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="50" title="GraphQL" /></a>  
