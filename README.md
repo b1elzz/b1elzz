@@ -11,7 +11,7 @@
 - 🎓 Tenho 17 anos e moro em Porto Alegre – RS 🇧🇷
 - 🧑‍💻 Finalizando o Ensino Médio + curso técnico em Informática
 - ☕ Entusiasta do desenvolvimento Back-End com foco em Java
-- 🛠️ Aprofundando conhecimentos em Spring Boot, bancos relacionais e não-relacionais, arquitetura, testes e boas práticas
+- 🛠️ Aprofundando conhecimentos em Spring Boot, estrutura de microsserviços, RabbitMQ e AWS
 - 🤖 Tenho interesse na área de IA e Computação Quântica
 - 💡 Fã de tecnologia e desenvolvimento de software
 
