@@ -30,23 +30,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="50" title="Maven" />
 </div>
 
-## 🚀 Projetos em Destaque
-
-<div style="background-color: #1a1a1a; border-radius: 10px; padding: 20px; margin-top: 10px;">
-  <h3 style="color: #800080; margin-bottom: 15px;">E-commerce API</h3>
-  <p>
-    Uma API robusta para e-commerce, desenvolvida com <strong>Spring Boot 3</strong> e <strong>Java 17</strong>, focada em gerenciamento de pedidos, pagamentos e notificações. Utiliza <strong>PostgreSQL</strong> para persistência, <strong>Redis</strong> para caching e <strong>RabbitMQ</strong> para mensageria assíncrona, com deploy simplificado via <strong>Docker</strong>.
-  </p>
-  <p>
-    <strong>Funcionalidades:</strong> Sistema de pedidos, integração de pagamentos, notificações assíncronas e autenticação segura com <strong>JWT</strong> e <strong>Spring Security</strong>.
-  </p>
-  <p>
-    <a href="https://github.com/b1el myst/ecommerce-api-spring" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=800080" />
-    </a>
-  </p>
-</div>
-
 ## 🌠 Stack Futura
 
 <details>  
