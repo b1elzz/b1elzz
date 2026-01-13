@@ -8,8 +8,8 @@
 
 ## 🌌 Sobre Mim
 
-- 🎓 Tenho 17 anos e moro em Porto Alegre – RS 🇧🇷
-- 🧑‍💻 Finalizando o Ensino Médio + curso técnico em Informática
+- 🎓 Tenho 18 anos e moro em Porto Alegre – RS 🇧🇷
+- 🧑‍💻 Atuando na mini residência de desenvolvimento de software do Instituto de Pesquisa Eldorado  
 - ☕ Entusiasta do desenvolvimento Back-End com foco em Java
 - 🛠️ Aprofundando conhecimentos em Spring Boot, estrutura de microsserviços, RabbitMQ e AWS
 - 🤖 Tenho interesse na área de IA e Computação Quântica
